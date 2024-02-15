@@ -1,0 +1,76 @@
+{
+  "rooms": {
+    "101": {
+      "images": ["./images/101.jpg"],
+      "text": "This is Text 1"
+    },
+    "102": {
+      "images": ["./images/102.jpg"],
+      "text": "This is Text 2"
+    },
+    "103": {
+      "images": ["./images/103.jpg"],
+      "text": "This is Text 3"
+    },
+    "104": {
+      "images": ["./images/104.jpg"],
+      "text": "This is Text 4"
+    },
+    "105": {
+      "images": ["./images/105.jpg"],
+      "text": "This is Text 5"
+    },
+    "106": {
+      "images": ["./images/106.jpg"],
+      "text": "This is Text 6"
+    },
+    "101_a": {
+      "images": ["./images/101_a.jpg"],
+      "text": "This is Text 1a"
+    },
+    "102_a": {
+      "images": ["./images/102_a.jpg"],
+      "text": "This is Text 2a"
+    },
+    "103_a": {
+      "images": ["./images/103_a.jpg"],
+      "text": "This is Text 3a"
+    },
+    "104_a": {
+      "images": ["./images/104_a.jpg"],
+      "text": "This is Text 4a"
+    },
+    "105_a": {
+      "images": ["./images/105_a.jpg"],
+      "text": "This is Text 5a"
+    },
+    "106_a": {
+      "images": ["./images/106_a.jpg"],
+      "text": "This is Text 6a"
+    },
+    "101_b": {
+      "images": ["./images/101_b.jpg"],
+      "text": "This is Text 1b"
+    },
+    "102_b": {
+      "images": ["./images/102_b.jpg"],
+      "text": "This is Text 2b"
+    },
+    "103_b": {
+      "images": ["./images/103_b.jpg"],
+      "text": "This is Text 3b"
+    },
+    "104_b": {
+      "images": ["./images/104_b.jpg"],
+      "text": "This is Text 4b"
+    },
+    "105_b": {
+      "images": ["./images/105_b.jpg"],
+      "text": "This is Text 5b"
+    },
+    "106_b": {
+      "images": ["./images/106_b.jpg"],
+      "text": "This is Text 6b"
+    }
+  }
+}

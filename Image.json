@@ -1,0 +1,17 @@
+{
+  "A_block": {
+    "Floor_1": {
+      "principal": [
+        {
+          "path": "./images/101.jpg",
+          "description": "navigation 1"
+        },
+        {
+          "path": "./images/102.jpg",
+          "description": "navigation 2"
+        },
+        {"path" :"./images/103.jpg" , "description": "navigation 3"}
+      ]
+    }
+  }
+}
